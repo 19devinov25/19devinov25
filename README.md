@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working pursing BE Computer Science and Engineering<br>I'm looking to collaborate on Full Stack Development related Stack<br>I'm looking for help with developing projects in Development field<br>I'm currently learning Networking and AI <br>Ask me about Development<br>Fun fact - I am lazy but smart<br><br>
+I'm currently working pursing BE Computer Science and Engineering<br>I'm looking to collaborate on Full Stack Development related Stack<br>I'm looking for help with developing projects in Development field<br>I'm currently learning Networking and AI <br>Ask me about Development<br>Fun fact - I may be lazy, but my intelligence is always in high gear, especially in programming and development!<br><br>
 
 
 ## 🌐 Socials:
