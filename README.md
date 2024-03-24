@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working pursing BE Computer Science and Engineering<br>I'm looking to collaborate on Full Stack Development related Stack<br>I'm looking for help with developing projects in Development field<br>I'm currently learning Networking and AI <br>Ask me about Development<br>Fun fact - I may be lazy, but my intelligence is always in high gear, especially in programming and development!<br><br>
+I'm currently working pursing BE Computer Science and Engineering<br>I'm looking to collaborate on Full Stack Development related Stack<br>I'm looking for help with developing projects in Development field<br>I'm currently learning Networking and AI <br>Ask me about Development<br>Fun fact - I am lazy but smart<br><br>
 
 
 ## 🌐 Socials:
@@ -20,9 +20,6 @@ I'm currently working pursing BE Computer Science and Engineering<br>I'm looking
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=19devinov25&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=19devinov25&icon=0&color=0)](https://visitcount.itsvg.in)
